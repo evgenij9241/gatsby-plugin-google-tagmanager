@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-google-tagmanager",
+  "name": "@lablancas/gatsby-plugin-google-tagmanager",
   "description": "Gatsby plugin to add google tagmanager onto a site",
   "version": "2.1.17",
   "author": "Thijs Koerselman <thijs@vauxlab.com>",
